@@ -2,11 +2,11 @@
 # Humphery Okey Odo
 
 # Education 
-- Oxford primary school - April 2000 - April 2006
-- Saint Joseph College orba - June 2006 - June 2012 
-- University of Nigeria Nsukka (2:1) - September 2014 - September 2019
-- Nigerian Law School(2:1) - February 2020 - July 2021 
-- Tunghai University Taiwan September 2023 - Present 
+- FSLC  Oxford primary school - April 2000 - April 2006
+- WAEC  Saint Joseph College orba - June 2006 - June 2012 
+- LLB  University of Nigeria Nsukka (2:1) - September 2014 - September 2019
+- BL  Nigerian Law School (2:1) - February 2020 - July 2021 
+- GMBA  Tunghai University Taiwan - September 2023 - Present 
 
 # Professional Experience
 - Junior Associate - Paul Ebiala & Associates (Trinity Chamber) July 2021 - May 2022
@@ -35,7 +35,7 @@ Young African Initiative Network (YALI NETWORK) - 2019
 - Corporate and Commercial Law
 - Merger and Acquisition 
 - Business Management 
-- Small and Medium Businesses H
+- Small and Medium Businesses 
 
 This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
 
