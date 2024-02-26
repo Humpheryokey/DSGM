@@ -2,23 +2,23 @@
 # Humphery Okey Odo
 
 # Education 
-2000-2006 oxford primary school
-2006-2012 Saint Joseph College orba 
-2014-2019 University of Nigeria Nsukka
-2020-2021 Nigerian Law School 
-2023 - present Tunghai University Taiwan
+- 2000-2006 oxford primary school
+- 2006-2012 Saint Joseph College orba 
+- 2014-2019 University of Nigeria Nsukka
+- 2020-2021 Nigerian Law School 
+- 2023 - present Tunghai University Taiwan
 
 # Professional Experience
-Paul Ebiala & Associates (TrinityChamber)
-Chukwudi unah partners (legal practitioners)
-Enugu State Judiciary (Multi-door courthouse)
+- 2021-2022 Paul Ebiala & Associates (TrinityChamber)
+- 2022-2022 Chukwudi unah partners (legal practitioners)
+- 2022-2023 Enugu State Judiciary (Multi-door courthouse)
 
 # Membership 
-Nigerian Bar Association (NBA)
+- Nigerian Bar Association (NBA)
 
 # Awards 
-Enugu State Law school grant
-Taiwan government Scholarship 
+- 2021 Enugu State Law school grant
+- 2023 Taiwan government Scholarship 
 
 
 This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
