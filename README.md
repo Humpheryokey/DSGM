@@ -2,24 +2,40 @@
 # Humphery Okey Odo
 
 # Education 
-- 2000-2006 oxford primary school
-- 2006-2012 Saint Joseph College orba 
-- 2014-2019 University of Nigeria Nsukka
-- 2020-2021 Nigerian Law School 
-- 2023 - present Tunghai University Taiwan
+- Oxford primary school - April 2000 - April 2006
+- Saint Joseph College orba - June 2006 - June 2012 
+- University of Nigeria Nsukka (2:1) - September 2014 - September 2019
+- Nigerian Law School(2:1) - February 2020 - July 2021 
+- Tunghai University Taiwan September 2023 - Present 
 
 # Professional Experience
-- 2021-2022 Paul Ebiala & Associates (TrinityChamber)
-- 2022-2022 Chukwudi unah partners (legal practitioners)
-- 2022-2023 Enugu State Judiciary (Multi-door courthouse)
+- Junior Associate - Paul Ebiala & Associates (Trinity Chamber) July 2021 - May 2022
+- Associate - Chukwudi unah partners (legal practitioners) June 2022 - October 2022
+- Legal officer - Enugu State Judiciary (Multi-door courthouse) October 2022 - September 2023
 
 # Membership 
-- Nigerian Bar Association (NBA)
+- Nigerian Bar Association (NBA) - July 2021
+- Association of Environmental Lawyers of Nigeria (AELN) - November 2021
+- Young International Council for Commercial Arbitration (YOUNGICCA) - 2022
+Young African Initiative Network (YALI NETWORK) - 2019
 
 # Awards 
 - 2021 Enugu State Law school grant
 - 2023 Taiwan government Scholarship 
 
+# Skills
+- Legal Reserach 
+- Contract Review
+- Leadership 
+- Teamwork 
+- Legal Counselling 
+
+# Interests 
+- Energy and Environmental Law
+- Corporate and Commercial Law
+- Merger and Acquisition 
+- Business Management 
+- Small and Medium Businesses H
 
 This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
 
